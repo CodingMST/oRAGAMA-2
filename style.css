@@ -1,0 +1,18 @@
+.Headings{
+display: flex;
+justify-content:  space-between;
+
+}
+
+.grid img{ 
+border: solid black;
+border-radius: 50px;
+
+}
+
+.grid{
+    display: flex;
+    justify-content : space-between;
+margin: 200px;
+}
+
